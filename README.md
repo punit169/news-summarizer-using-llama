@@ -29,6 +29,12 @@ To get started with the News Summarizer, follow these steps:
     - Upload the notebook file (`.ipynb`) to your Google Drive.
     - Open the notebook using Google Colab.
 
+## Interface Demo
+
+Here's a screenshot of the Streamlit interface:
+
+![image](https://github.com/user-attachments/assets/86fe86a3-69ed-4845-a49f-a8354e5dbb3c)
+
 ## Contributing
 
 We welcome contributions to improve the News Summarizer. Please fork the repository and submit a pull request for any enhancements or bug fixes.
